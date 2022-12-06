@@ -1,0 +1,373 @@
+/*Mainpage huihui*/
+.logo {
+    top: 220px;
+    left: 609px;
+    width: 700px;
+    height: 711px;
+    position: absolute;
+    border-color: transparent;
+    border-radius: 900px;
+}
+
+.titlebar {
+    position: absolute;
+    width: 1881px;
+    height: 151px;
+    left: 22px;
+    top: 22px;
+
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.87) 22.92%, rgba(0, 0, 0, 0) 100%);
+    border-radius: 100px;
+
+}
+
+.line1 {
+    position: absolute;
+    width: 200px;
+    height: 0px;
+    left: 48px;
+    top: 114px;
+
+    mix-blend-mode: normal;
+    border: 2px solid #FFFFFF;
+}
+
+.line2 {
+    position: absolute;
+    width: 200px;
+    height: 0px;
+    left: 465px;
+    top: 114px;
+
+    mix-blend-mode: normal;
+    border: 2px solid #FFFFFF;
+}
+
+.line3 {
+    position: absolute;
+    width: 200px;
+    height: 0px;
+    left: 1218px;
+    top: 114px;
+
+    mix-blend-mode: normal;
+    border: 2px solid #FFFFFF;
+}
+
+.line4 {
+    position: absolute;
+    width: 200px;
+    height: 0px;
+    left: 1674px;
+    top: 114px;
+
+    mix-blend-mode: normal;
+    border: 2px solid #FFFFFF;
+}
+
+.menu {
+
+
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 816px;
+    top: 36px;
+
+    background: url(D:\\RCOEM\\Project\\Technologi-Design-Grey-Gradient-Background.jpg);
+    mix-blend-mode: normal;
+    border-radius: 90px;
+}
+
+.slogan {
+    position: absolute;
+    width: 1103px;
+    height: 143px;
+    left: 384px;
+    top: 1004px;
+
+    font-family: 'Gabriola';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 90px;
+    /* or 141% */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+}
+
+.home {
+    position: absolute;
+    width: 207px;
+    height: 24px;
+    left: 856px;
+    top: 26px;
+
+    font-family: 'Mate SC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+
+}
+
+.menu1 {
+    position: absolute;
+    width: 252px;
+    height: 36px;
+    left: 22px;
+    top: 10px;
+
+    font-family: 'Mate SC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+
+}
+
+.help {
+    position: absolute;
+    width: 252px;
+    height: 36px;
+    left: 439px;
+    top: 10px;
+
+    font-family: 'Mate SC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+}
+
+.donate {
+    position: absolute;
+    width: 252px;
+    height: 36px;
+    left: 1192px;
+    top: 10px;
+
+    font-family: 'Mate SC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+}
+
+.login {
+    position: absolute;
+    width: 252px;
+    height: 36px;
+    left: 1648px;
+    top: 10px;
+
+    font-family: 'Mate SC';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 59px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    mix-blend-mode: normal;
+}
+
+
+.back {
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    mix-blend-mode: normal;
+}
+
+/*Menu*/
+
+.pm {
+    position: absolute;
+    width: 240.66px;
+    height: 237.5px;
+    left: 1633px;
+    top: 18px;
+    border-radius: 5px;
+}
+
+.word {
+    position: absolute;
+    width: 154px;
+    height: 70px;
+    left: 1675px;
+    top: 255px;
+
+
+    font-family: 'RocknRoll One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 70px;
+    /* identical to box height */
+
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+
+    background: conic-gradient(from 180deg at 50% 50%, rgba(253, 192, 192, 0) -32.63deg, #EE0000 126.75deg, rgba(253, 192, 192, 0) 327.37deg, #EE0000 486.75deg), #FFFFFF;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+
+    mix-blend-mode: normal;
+}
+
+.grp {
+    position: absolute;
+    width: 71.08px;
+    height: 84px;
+    left: 46px;
+    top: 53px;
+}
+
+.donate1 {
+    position: absolute;
+    width: 208px;
+    height: 70px;
+    left: 1648px;
+    top: 255px;
+
+    font-family: 'RocknRoll One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 70px;
+    /* identical to box height */
+
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+
+    background: conic-gradient(from 180deg at 50% 50%, rgba(253, 192, 192, 0) -32.63deg, #EE0000 126.75deg, rgba(253, 192, 192, 0) 327.37deg, #EE0000 486.75deg), #FFFFFF;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+    mix-blend-mode: normal;
+}
+
+
+.face {
+    position: absolute;
+    width: 512px;
+    height: 512px;
+    left: 704px;
+    top: 127px;
+    border-radius: 256px;
+}
+
+.logbutton {
+    position: absolute;
+    width: 408px;
+    height: 114px;
+    left: 762px;
+    top: 713px;
+    border-radius: 30px;
+}
+
+.signbutton {
+    position: absolute;
+    width: 408px;
+    height: 114px;
+    left: 762px;
+    top: 891px;
+    border-radius: 30px;
+}
+
+.shield {
+    position: absolute;
+    width: 205px;
+    height: 205px;
+    left: 855px;
+    top: 50px;
+    border-radius: 504.5px;
+}
+
+.email {
+    position: absolute;
+    width: 229px;
+    height: 73px;
+    left: 843px;
+    top: 294px;
+
+    font-family: 'RocknRoll One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 70px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+}
+
+.password {
+    position: absolute;
+    width: 292px;
+    height: 64px;
+    left: 816px;
+    top: 480px;
+
+    font-family: 'RocknRoll One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 70px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+}
+
+.confirm {
+    position: absolute;
+    width: 292px;
+    height: 64px;
+    left: 812px;
+    top: 690px;
+
+    font-family: 'RocknRoll One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 58px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+}
